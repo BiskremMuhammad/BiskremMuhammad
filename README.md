@@ -10,9 +10,9 @@
 
 📡 Full-Stack psql, Ts, MERNG
 
-🎗 [Storelife](http://storelife.readyweb.app/) [login: admin, $l1234], [efents](https://efents.net) Owner
+🎗 [Storelife](http://storelife.storelife.me/) [login: admin, $l1234], [efents](https://efents.biskremer.com) Owner
 
-🎮 [UNITY GameDev](https://play.google.com/store/apps/dev?id=7030385259326132028)
+🎮 [App Store](https://link.biskremer.com/ios)  .  [Play Store](https://link.biskremer.com/android)
 
 check fb👇
 
