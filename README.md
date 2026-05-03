@@ -1,6 +1,6 @@
 👋 Hi
 
-<✨(biskremer)[https://biskremer.com] />
+<✨[biskremer](https://biskremer.com) />
 
 🎮 [App Store](https://link.biskremer.com/ios)  .  [Play Store](https://link.biskremer.com/android)
 
